@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\bin\Debug\net6.0\EduHome.Business.deps.json
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\bin\Debug\net6.0\EduHome.Business.dll
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\bin\Debug\net6.0\EduHome.Business.pdb
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.AssemblyInfo.cs
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.dll
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\refint\EduHome.Business.dll
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.pdb
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\ref\EduHome.Business.dll
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\user\Desktop\API START CLASS\ApiStrat\src\EduHome.Business\obj\Debug\net6.0\EduHome.Business.csproj.CopyComplete
